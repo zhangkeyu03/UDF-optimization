@@ -12,6 +12,7 @@ SELECT TOP 3000 * FROM dbo.F_WORKS_LIST();
 SET STATISTICS TIME OFF;
 ## Результаты следующие:
 ![image](https://github.com/user-attachments/assets/2e0c7cfb-2d6e-4c55-8190-cd9eb00c028b)
+
 Перевод текста на картинке следующий:
 Время анализа и компиляции SQL Server:
 Время ЦП = 0 мс, прошедшее время = 0 мс.
@@ -28,6 +29,7 @@ ORDER BY ID_WORK DESC;
 SET STATISTICS TIME OFF;
 ## Результаты следующие:
 ![image](https://github.com/user-attachments/assets/24112183-c352-4d5c-916f-5676b9c3e19b)
+
 Перевод текста на картинке следующий:
 (затронуто 3000 строк)
 Время выполнения SQL Server:
